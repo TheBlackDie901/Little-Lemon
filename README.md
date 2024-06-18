@@ -1,7 +1,7 @@
 # Little-Lemon
-This project was created during Meta's Coursera Front-End Development course. This website was the culmuniation of the Front-End Development Track.
+This project was created for Meta's Front-End Development course. This website was the end project of the Front-End Development Track.
 
-This website showcased implementing a booking application on the Little Lemon Website. This was created with React Components to show an understanding of utilizing React for creating the website. This also features utilzing API calls.
+This website implements a booking application on the Little Lemon Restaurant Website. This was created using React Components to show an understanding of utilizing React. This also features utilzing API calls.
 
 Screenshots:
 
